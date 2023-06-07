@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋🏼:octocat:
+
+### Some quick stats
+  [![Kevin Harrington's GitHub stats](https://github-readme-stats-jansensmith.vercel.app/api?username=madhephaestus)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Kevin Harrington's Top Langs](https://github-readme-stats-jansensmith.vercel.app/api/top-langs/?username=madhephaestus&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 <!--
 **madhephaestus/madhephaestus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
