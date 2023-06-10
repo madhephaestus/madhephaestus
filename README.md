@@ -3,4 +3,3 @@
   
   [![Kevin Harrington's Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=madhephaestus&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Kevin Harrington's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=madhephaestus)](https://github.com/anuraghazra/github-readme-stats)
